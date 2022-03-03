@@ -13,6 +13,7 @@ public class ArrayQus {
 		}*/
 		for(String f: fruits)
 			System.out.println(f);
+		
 	}
 
 }
